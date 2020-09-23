@@ -1,11 +1,11 @@
 # DSA Topics:
 
-## 1.  Arrays
-## 2.  Strings
-## 3.  Hashing
-## 4.  Trees
-## 5.  BST
-## 6.  Linked-List
+## 1.  [Arrays](#arrays)
+## 2.  [Strings](#string)
+## 3.  [Hashing](#hashing)
+## 4.  [BinaryTrees](#binary-tree)
+## 5.  [BST](#binary-search-tree)
+## 6.  [LinkedList](#linked-list)
 ## 7.  Recursion
 ## 8.  Greedy
 ## 9.  Basic DP
@@ -62,7 +62,7 @@ ________________________________________________________________________________
 3. Minimum characters needed to be inserted in the beginning to make it palindromic.
 4. Check for Anagrams
 5. Count and Say
-6. Compare version numbersDay17: 
+6. Compare version numbers
 
 ________________________________________________________________________________________________________
 
@@ -106,7 +106,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
-## Day 20: (Binary Search Tree)
+## (Binary Search Tree)
 
 1.  Populate Next Right pointers of Tree
 2.  Search given Key in BST
@@ -123,7 +123,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 
-## Day5: (LinkedList)
+## (Linked List)
 
 1. Reverse a LinkedList
 2. Find middle of LinkedList
