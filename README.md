@@ -32,7 +32,7 @@ ________________________________________________________________________________
     [Link](https://leetcode.com/problems/pascals-triangle/)
 9.  Next Permutation
     [Link](https://leetcode.com/problems/next-permutation/)
-10. Inversion of Array​ (Using Merge Sort)  
+10. Inversion of Array​ :Using Merge Sort 
     [Link](https://www.geeksforgeeks.org/counting-inversions/)
 11. Stock Buy and Sell
     [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
@@ -51,18 +51,31 @@ ________________________________________________________________________________
 
 ## (String)
 
-1. Reverse Words in a String
-2. Longest Palindrome in a string
-3. Roman Number to Integer and vice versa
-4. Implement ATOI/STRSTR
-5. Longest Common Prefix
-6. Rabin Karp
-1. Prefix Function/Z-Function
-2. KMP algo
-3. Minimum characters needed to be inserted in the beginning to make it palindromic.
-4. Check for Anagrams
-5. Count and Say
-6. Compare version numbers
+1.  Reverse Words in a String
+    [Link](https://www.techiedelight.com/reverse-text-without-reversing-individual-words/)
+2.  Longest Palindrome in a string
+    [Link](https://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/)
+3.  Roman Number to Integer and vice versa
+    [Link](https://www.geeksforgeeks.org/converting-decimal-number-lying-between-1-to-3999-to-roman-numerals/)
+    [Link](https://www.geeksforgeeks.org/converting-roman-numerals-decimal-lying-1-3999/)
+4.  Implement ATOI/STRSTR
+        [Refer Strings Documentation)
+5.  Longest Common Prefix
+    [Link](https://www.techiedelight.com/find-longest-common-prefix-lcp-strings/)
+6.  ~Rabin Karp
+    [Link](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+7.  ~Prefix Function/Z-Function(Pattern searchig Algo)
+    [Link](https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/)
+8.  ~KMP algo
+    [Link](https://www.techiedelight.com/implementation-kmp-algorithm-c-cpp-java/)
+9.  ~Minimum characters needed to be inserted in the beginning to make it palindromic.(KMP Algo)
+    [Link](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
+10. Check for Anagrams
+    [Link](https://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/)
+11. Count and Say
+    [Link](https://www.geeksforgeeks.org/look-and-say-sequence/)
+12. Compare version numbers
+    [Link](https://www.geeksforgeeks.org/compare-two-version-numbers/)
 
 ________________________________________________________________________________________________________
 
