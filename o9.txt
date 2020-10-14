@@ -1,0 +1,132 @@
+1.	Tell me About yourself?
+
+I began my journey at Nitk in EEE and started exploring the opportunities in the field of electrical early on with an internship at Vijayawada thermal power plant, During which I realized that the worklife in this field is pre-defined and routine. And I wanted to be in a fast paced work culture solving challenges with my skills and creativity. So I decided to switch my career path and explore new fields like Software and Consultant.	
+	
+
+2.	why Consultancy?
+
+It gives an opportunity to learn about various business models or to develop new marketing strategies and it requires the ability to solve challenging problems with creative solutions, being able to demonstrate your interest and skills.
+
+
+3.	what do you know about the company?
+
+o9 Solutions is a leading AI platform provider, which delivers solutions that use modern AI technology in helping organizations achieve new levels of productivity, speed and in decision making.
+O9 Solutions has its ows platform based on ML and AI that helps in supply-chain management, Demand-supply Forecasting, Management Consulting, etc.
+Motive:
+Global supply chains are the largest consumers of the earth’s resources. O9 helps enterprises to achieve their goals while using less of the resources with better financial results.
+
+End-to-end constraint-based planning across the complete supply chain.
+1. Revenue Management(Revenue planning and Budgeting, Demand planning, etc)
+2. Supply-Chain Management(refer below)
+[keep thisextra: 3. Integrated Bussiness Planning]
+
+
+4.	what is supply-chain management?
+
+Supply chain management is the handling of the entire production flow of a good or service — starting from the raw components all the way to delivering the final product to the consumer.
+examples:
+Laptop Production company
+FedEx delivery services company
+
+
+5.	what short term and long term goals?
+
+Short term goals:
+To have a clarity on the skillset required for this role, the key responsibilities that I will be handling and the results that are expected from me, and to work and improve on them.
+Long term goals:
+I want to use my skills and strategies that I learn through my role in the company and use them consistently to solve the challenges that come in my way and add value to the firm.
+
+
+
+6.	what are your strengths and weakness?
+
+Strengths:
+my strength is the ability to solve problems quickly and efficiently and I take up responsibilities in a team and try to lead the team.
+Weakness:
+Sometimes I tend to cross check my answers and decisions even after I know that they are correct and that consumes more time and have less time for rest of the work. I am improving on it and I think I did better in the online test that was so time constraint.
+
+
+7.	what skills do you bring to the table?
+
+Problem Solving skills, open to learn anything, leading a team, and a few Technical skills, etc.
+
+
+
+10.	why o9?
+
+o9 is one of the top growing companies in USA and it has a Competitive environment which will always encourage one to keep going, and I have one of my senior in o9 and he always speaks about the good atmosphere the company has. And I am a perfect match for this company. 
+
+
+11. 	why do we hire you?
+
+I have a good problem solving ability and I take up responsibilities in a team and try to lead the team. I have better Technical skills which is one of the requires qualities for this role, so I think I am a perfect match for your company.
+
+
+
+Gyaan Reviews:
+
+1. Resume based Questions.
+2. Project(for about 5 mins).
+3. SQL Questions.
+4. what I know about the company, what does o9 do, why do I want to switch from core to IT ..etc.
+5. question about demand and supply.
+6. go through puzzles on GFG.
+7. know how to approach a guesstimate.
+9. case study [laptop].
+
+
+
+
+
+---------------------------------------
+About Company
+HR Questions
+SQL
+puzzles
+ds Algo
+_______________________________________
+
+
+
+
+
+
+
+
+
+
+
+Linked in:
+About Company:
+
+Overview
+Because decisions matter to your plan and the planet.
+
+Faster, more intelligent planning and business decision-making translate directly to better financial results – i.e. being able to to 		deliver on the business plan.  Global supply chains are the largest consumers of the earth’s resources. Good planning means enterprises are able to achieve their goals while using less of the earth’s precious resources.
+
+Better planning and decision-making processes drive more transparency. They reduce organizational silos, empower people and increase 		productivity. That translates to inspired employees who are happy at work, are happier at home and better contributors to society. We are 	on a mission to develop the best platform and solutions to help enterprises in this critical pursuit.
+
+Specialties: 
+Integrated Business Planning, Performance Management, Sales & Operations Planning, Process Improvement, Management Consulting, Artificial Intelligence, demand planning, supply planning, and digital transformation
+________________________________________
+
+GlassDoor:
+While o9 was conceived by founders Sanjiv Sidhu and Chakri Gottemukkala in 2009, the journey started much before. It started in the late 1980s when Sanjiv came out of the Artificial Intelligence labs of Texas Instruments and founded i2 along with Ken Sharma, a thought leader in constraint based planning. There, Sanjiv and Ken pioneered game-changing planning and supply chain management software that drove billions in value for large manufacturers and retailers across all industry segments. When the company was acquired in 2008, Sanjiv and Chakri, a key contributor in the i2 journey got together as they felt there was huge value to be delivered in making corporations more agile by helping management make faster, more intelligent decisions in the face of growing market complexity and speed. Furthermore, they saw that new advances in digital technologies make amazing things possible. And hence o9 was born, bringing some of the world’s best technologists and industry experts on the mission to create the most value generating enterprise software platform ever.
+Mission: Faster, more intelligent business decision making translates directly to better financial results, but it means much more. It means organizations can achieve their goals while using less of the earth’s precious resources, drive more transparency, reduce organizational politics, empower people, and increase productivity. That translates to inspired employees. We are on a mission to develop the best technology to aid organizations in this critical pursuit.
+________________________________________
+	
+kavish:
+
+It has its ows platform based on ml and ai and it helps in supply-chain management
+Demand and supply Forecasting
+
+________________________________________
+
+
+
+
+
+
+
+
+
