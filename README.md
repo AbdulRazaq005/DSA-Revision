@@ -62,20 +62,23 @@ ________________________________________________________________________________
         [Refer Strings Documentation)
 5.  Longest Common Prefix
     [Link](https://www.techiedelight.com/find-longest-common-prefix-lcp-strings/)
-6.  ~Rabin Karp
-    [Link](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
-7.  ~Prefix Function/Z-Function(Pattern searchig Algo)
-    [Link](https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/)
-8.  ~KMP algo
-    [Link](https://www.techiedelight.com/implementation-kmp-algorithm-c-cpp-java/)
-9.  ~Minimum characters needed to be inserted in the beginning to make it palindromic.(KMP Algo)
-    [Link](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
-10. Check for Anagrams
+6.  Count minimum swap to make string as palindrome
+    [Link](https://www.geeksforgeeks.org/count-minimum-swap-to-make-string-palindrome/)
+7.  Check for Anagrams
     [Link](https://www.techiedelight.com/determine-if-two-strings-are-anagram-or-not/)
-11. Count and Say
+8.  Count and Say
     [Link](https://www.geeksforgeeks.org/look-and-say-sequence/)
-12. Compare version numbers
+9.  Compare version numbers
     [Link](https://www.geeksforgeeks.org/compare-two-version-numbers/)
+    ________________________________
+10.  ~Rabin Karp
+    [Link](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+11.  ~Prefix Function/Z-Function(Pattern searchig Algo)
+    [Link](https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/)
+12.  ~KMP algo
+    [Link](https://www.techiedelight.com/implementation-kmp-algorithm-c-cpp-java/)
+13.  ~Minimum characters needed to be inserted in the beginning to make it palindromic.(KMP Algo)
+    [Link](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)
 
 ________________________________________________________________________________________________________
 
